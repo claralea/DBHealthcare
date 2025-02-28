@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Papa from 'papaparse';
+//import Papa from 'papaparse';
 
 const HealthcareDatabases = () => {
   const [data, setData] = useState([]);

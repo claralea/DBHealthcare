@@ -1,0 +1,14 @@
+{
+  "name": "healthcare-databases-table",
+  "version": "1.0.0",
+  "description": "Interactive table of healthcare databases",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "papaparse": "^5.3.0"
+  }
+}
